@@ -1,0 +1,5 @@
+body{margin:0;font-family:Arial;background:linear-gradient(180deg,#000,#0f3d1f);color:#fff}
+input,button{padding:12px;border-radius:10px}
+.card{width:360px;background:#111;border:3px solid #22c55e;border-radius:20px;overflow:hidden}
+.scan{animation:pulse 1s infinite}
+@keyframes pulse{50%{opacity:.4}}
