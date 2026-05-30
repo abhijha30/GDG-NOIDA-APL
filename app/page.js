@@ -66,7 +66,11 @@ OFFICIAL GDG NOIDA PLAYER
 <div style={{padding:15}}>
 <h2>{name}</h2>
 <p>PLAYER #{num}</p>
-<img src="/jersey-front.png" width="170"/>
+<img
+  src="https://via.placeholder.com/170x170?text=GDG+Jersey"
+  width="170"
+  alt="Jersey"
+/>
 <p><b>AGENTIC PREMIER LEAGUE</b></p>
 <p>31 MAY</p>
 <p>@gdg_noida</p>
